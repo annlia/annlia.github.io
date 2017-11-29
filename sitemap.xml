@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://annlia.github.io/jclub/jcseries3/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/jclub/jclub/</loc>
+    <lastmod>2017-11-10T21:59:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/contact/jcontact/</loc>
+    <lastmod>2017-11-09T21:59:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/jclub/jcseries4/</loc>
+    <lastmod>2017-11-09T21:59:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/about/jabout/</loc>
+    <lastmod>2017-11-09T21:59:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/jclub/jcseries2bis/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/jclub/jcseries2/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/jclub/jcseries1/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/about/</loc>
+    <lastmod>2017-11-09T21:59:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/contact/</loc>
+    <lastmod>2017-11-09T21:59:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/jclub/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://annlia.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

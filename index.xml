@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A drunkard&#39;s walk in Hugo website with RStudio and github</title>
+    <link>https://annlia.github.io/</link>
+    <description>Recent content on A drunkard&#39;s walk in Hugo website with RStudio and github</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Ann Lia</copyright>
+    <lastBuildDate>Fri, 24 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://annlia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Series 3: Regulatory statistics</title>
+      <link>https://annlia.github.io/jclub/jcseries3/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/jclub/jcseries3/</guid>
+      <description>Figure from abovethelaw.com
+   Date  Location  Topic      January 11th  CEB  Estimands - Hernan per protocol    February 8th  Swiss TPH  Multiple endpoints - part 1    March 8th  CEB  Multiple endpoints - part 2    April 12th  Swiss TPH  Estimands - ICH E9 Addendum    May 17th  CEB  TBD    June 14th  Swiss TPH  TBD    August 16th  CEB  TBD    September 13th  Swiss TPH  TBD    October 18th  CEB  TBD    November 15th  Swiss TPH  TBD    December 13th  CEB  TBD      Following up on the 2nd EFSPI Workshop on Regulatory Statistics, on October 5-6th 2017 in Basel</description>
+    </item>
+    
+    <item>
+      <title>Biostatistics Journal Club</title>
+      <link>https://annlia.github.io/jclub/jclub/</link>
+      <pubDate>Fri, 10 Nov 2017 21:59:45 +0100</pubDate>
+      
+      <guid>https://annlia.github.io/jclub/jclub/</guid>
+      <description>Reading series from the joint biostatistics journal club between the Basel clinical epidemiology and biostatistics institute and Swiss TPH</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk</title>
+      <link>https://annlia.github.io/contact/jcontact/</link>
+      <pubDate>Thu, 09 Nov 2017 21:59:45 +0100</pubDate>
+      
+      <guid>https://annlia.github.io/contact/jcontact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Series 4: To be defined</title>
+      <link>https://annlia.github.io/jclub/jcseries4/</link>
+      <pubDate>Thu, 09 Nov 2017 21:59:45 +0100</pubDate>
+      
+      <guid>https://annlia.github.io/jclub/jcseries4/</guid>
+      <description>Potential Bayesian statistics reading list
+ A primer on BAYESIAN STATISTICS in Health Economics and Outcomes Research Bryan Luce and Anthony O’Hagan
+MEDTAP International, 2003
+ Bayesian data analysis for newcomers
+link to Springer
+John K. Kruschke and Torrin M. Liddell
+Psychonomic Bulletin &amp;amp; Review, 2017
+Quote from the abstract This article explains the foundational concepts of Bayesian data analysis using virtually no mathematical notation.
+ The Bayesian New Statistics</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s this about</title>
+      <link>https://annlia.github.io/about/jabout/</link>
+      <pubDate>Thu, 09 Nov 2017 21:59:45 +0100</pubDate>
+      
+      <guid>https://annlia.github.io/about/jabout/</guid>
+      <description>Building a hugo website with RStudio</description>
+    </item>
+    
+    <item>
+      <title>Series 2 bis: Follow up to ASA statement - two years on (2017)</title>
+      <link>https://annlia.github.io/jclub/jcseries2bis/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/jclub/jcseries2bis/</guid>
+      <description>Figure from Messerli (2012) Chocolate Consumption, Cognitive Function, and Nobel Laureates, New England Journal of Medicine.
+Potential list of readings under additional p-value treatment
+ Redefine statistical significance
+71 Al. and Valen E. Johnson PsyArXiv Preprints, 2017
+Appearing in nature human behaviour
+with Correspondence by Valentin Amrhein and Sander Greenland in Remove, rather than redefine, statistical significance
+and reponses by another large number of authors (Including D. Mayo) in
+Justify Your Alpha: A Response to Redefine Statistical Significance</description>
+    </item>
+    
+    <item>
+      <title>Series 2: To p or not to p, will we ever let it p</title>
+      <link>https://annlia.github.io/jclub/jcseries2/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/jclub/jcseries2/</guid>
+      <description>Figure from xkcd
+The never ending saga of p-values
+The ASA Statement on p-Values: Context, Process, and Purpose
+with comments at
+Supplemental Material to the ASA Statement on P-Values and Statistical Significance
+was published in 2016 as an editorial in The American Statistician, with 21 comments from renowned statisticians, and a list of relevant references.
+Meeting 1 - Spetember 7th
+The ASA Statement on p-Values: Context, Process, and Purpose (Ronald L.</description>
+    </item>
+    
+    <item>
+      <title>Series 1: Bad science</title>
+      <link>https://annlia.github.io/jclub/jcseries1/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/jclub/jcseries1/</guid>
+      <description>For a light start in the field of evidence based science Goldacre’s Bad science is a good and enjoyable read.
+Bad science wiki page
+Order Bad science from amazon
+Goldacre is a British physician, academic and Guardian columnist, very enjoyable to read, though provocative.
+An interesting follow up is Goldacre’s Bad Pharma, more closely oriented to the world of drug development. Unsurprisingly it has attracted some criticism by reknown statisticians working in this field, such as Stephen Senn’s:</description>
+    </item>
+    
+  </channel>
+</rss>
