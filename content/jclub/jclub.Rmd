@@ -1,0 +1,9 @@
+---
+title: "Biostatistics Journal Club"
+date: 2017-11-10T21:59:45+01:00
+author: Giusi Moffa
+draft: false
+---
+
+Reading series from the joint biostatistics journal club between the Basel clinical epidemiology and biostatistics institute and Swiss TPH
+

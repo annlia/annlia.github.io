@@ -1,0 +1,33 @@
+---
+title: 'Series 4: To be defined'
+author: "Giusi Moffa"
+date: '2017-11-09T21:59:45+01:00'
+output:
+  html_document: default
+  pdf_document: default
+draft: no
+bibliography: jclub.bib
+---
+
+_Potential Bayesian statistics reading list_
+
+* [A primer on BAYESIAN STATISTICS in Health Economics and Outcomes   Research](https://www.sheffield.ac.uk/polopoly_fs/1.80635!/file/primer.pdf)
+Bryan Luce and Anthony O'Hagan  
+MEDTAP International, 2003  
+
+* [Bayesian data analysis for newcomers](http://doingbayesiandataanalysis.blogspot.ch/2017/04/new-article-bayesian-for-newcomers.html)  
+[link to Springer](https://link.springer.com/article/10.3758/s13423-017-1272-1)  
+John K. Kruschke and Torrin M. Liddell  
+Psychonomic Bulletin & Review, 2017  
+`Quote from the abstract` _This article explains the foundational concepts of Bayesian data analysis using virtually no mathematical notation._
+
+* [The Bayesian New Statistics](http://doingbayesiandataanalysis.blogspot.ch/2017/02/the-bayesian-new-statistics-finally.html)  
+[link to psyarxiv](https://osf.io/preprints/psyarxiv/wntsa/)
+
+* [Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan](https://www.elsevier.com/books/doing-bayesian-data-analysis/kruschke/978-0-12-405888-0)  
+[First edition available online](www.users.csbsju.edu/~mgass/robert.pdf)  
+The most relevant feature of the second edition is that all programs have moved away from BUGS to more modern tools like JAGS and Stan  
+[Book website by the author](https://sites.google.com/site/doingbayesiandataanalysis/)
+
+* [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://www.crcpress.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-Stan/McElreath/p/book/9781482253443)
+[Book website by the author](http://xcelab.net/rm/statistical-rethinking/)
