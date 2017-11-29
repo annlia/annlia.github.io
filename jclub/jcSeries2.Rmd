@@ -18,7 +18,7 @@ with comments at
 [Supplemental Material to the ASA Statement on P-Values and Statistical Significance](http://amstat.tandfonline.com/doi/suppl/10.1080/00031305.2016.1154108?scroll=top)  
 was published in 2016 as an editorial in _The American Statistician_, with 21 comments from renowned statisticians, and a list of relevant references. 
 
-**Meeting 1 - Spetember 7th**
+**Meeting 1 - September 7th**
 
   a. The ASA Statement on p-Values: Context, Process, and Purpose (Ronald L. Wasserstein & Nicole A. Lazar)  
 
@@ -27,7 +27,7 @@ _This is a general introduction to the topic highlighting common misinterpretati
 
 **Meeting 2 -  September 21st**
 
-  1. Altman,Naomi: Ideas frommultiple testing of high dimensional data provide insights about reproducibility and false discovery rates of hypothesis supported by p-values
+  1. Altman, Naomi: Ideas from multiple testing of high dimensional data provide insights about reproducibility and false discovery rates of hypothesis supported by p-values
   2. Benjamin, Daniel J, and Berger, James O: A simple alternative to p-values
   3. Benjamini, Yoav: It's not the p-values' fault
   4. Berry, Donald A: P-values are not what they're cracked up to be
@@ -38,7 +38,7 @@ _This is a general introduction to the topic highlighting common misinterpretati
 
 **Meeting 3 - October 19th**
 
-  8. Goodman, Steven N: The next questions:Who,what,when, where, and why?
+  8. Goodman, Steven N: The next questions:Who, what, when, where, and why?
   9. Greenland, Sander: The ASA guidelines and null bias in current teaching and practice
   10. Ioannidis, John P.A.: Fit-for-purpose inferential methods: abandoning/changing P-values versus abandoning/changing research
   11. Johnson, Valen E.: Comments on the ASA Statement on Statistical Significance and P-values" and marginally significant p-values
