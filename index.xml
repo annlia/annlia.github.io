@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A drunkard&#39;s walk in Hugo website with RStudio and github</title>
+    <title>A journey through statistics &#43;---&#43; by Giusi Moffa</title>
     <link>https://annlia.github.io/</link>
-    <description>Recent content on A drunkard&#39;s walk in Hugo website with RStudio and github</description>
+    <description>Recent content on A journey through statistics &#43;---&#43; by Giusi Moffa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Ann Lia</copyright>
-    <lastBuildDate>Fri, 24 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://annlia.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research interests</title>
+      <link>https://annlia.github.io/jresearch/jresearch/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/jresearch/jresearch/</guid>
+      <description>At the heart of my research are probabilistic graphical models and their relation to causal inference, as well as their potential to aid translational medicine and health sciences. We aim to model and analyse complex biomedical data and routinely collected health data. Therefore we strive to develop novel statistical methodology specifically tailored to the research question and the nature of the data at hand.
+Causal discovery is an inspiring technical challenge, where we try to learn about the causal mechanisms underlying a data generating process.</description>
+    </item>
+    
+    <item>
+      <title>Visitor&#39;s guide</title>
+      <link>https://annlia.github.io/about/jabout/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/about/jabout/</guid>
+      <description>Chronichles from a statistician’s journey
+A drunkard’s walk in an attempt at building a Hugo website with RStudio and github.</description>
+    </item>
     
     <item>
       <title>Series 3: Regulatory statistics</title>
@@ -55,15 +75,6 @@ John K. Kruschke and Torrin M. Liddell
 Psychonomic Bulletin &amp;amp; Review, 2017
 Quote from the abstract This article explains the foundational concepts of Bayesian data analysis using virtually no mathematical notation.
  The Bayesian New Statistics</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s this about</title>
-      <link>https://annlia.github.io/about/jabout/</link>
-      <pubDate>Thu, 09 Nov 2017 21:59:45 +0100</pubDate>
-      
-      <guid>https://annlia.github.io/about/jabout/</guid>
-      <description>Building a hugo website with RStudio</description>
     </item>
     
     <item>

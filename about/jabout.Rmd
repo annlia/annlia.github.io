@@ -1,8 +1,9 @@
 ---
-title: "What's this about"
-date: 2017-11-09T21:59:45+01:00
+title: "Visitor's guide"
+date: 2019-07-02
 author: Giusi Moffa
 draft: false
 ---
 
-Building a hugo website with RStudio
+Chronichles from a statistician's journey  
+A drunkard's walk in an attempt at building a [Hugo](https://gohugo.io/) website with [RStudio](https://www.rstudio.com/) and [github](https://github.com/).

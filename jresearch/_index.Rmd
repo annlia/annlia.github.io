@@ -1,0 +1,13 @@
+---
+title: ""
+date: 2019-07-02
+author: Giusi Moffa
+draft: false
+---
+
+<img src="img/jnews.jpg" width="270px" />   
+</br>
+Giusi Moffa  
+Assistant professor of statistics   
+[Department of Mathematics and Computer Science](https://dmi.unibas.ch/en/home/), 
+[University of Basel](https://www.unibas.ch/en.html)
