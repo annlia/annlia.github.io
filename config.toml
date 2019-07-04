@@ -44,11 +44,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   
   [[params.navlinks]]
   name = "Cicerone"
-  url = "about/jabout"    
+  url = "about/jabout" 
+  
+  [[params.navlinks]]
+  name = "Academia"
+  url = "jacademia/"  
   
   [[params.navlinks]]
   name = "Research"
-  url = "jresearch/"  
+  url = "jacademia/jresearch"
+
+  [[params.navlinks]]
+  name = "Teaching"
+  url = "jacademia/jteaching"  
   
   [[params.navlinks]]
   name = "Biostatistics Journal club"
@@ -63,14 +71,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "contact/jcontact"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  twitter       = "https://twitter.com/giusimoffa"
+  linkedin      = "https://www.linkedin.com/in/giusimoffa/"
+  github        = "https://github.com/annlia"
+  email         = "giusi.moffa@unibas.ch"
+  facebook      = "https://www.facebook.com/giusimoffa"
+  instagram     = "https://www.instagram.com/giusi.moffa/"
+  
+# googleplus    = "full profile url in googleplus"  
+# stackoverflow = "full profile url in stackoverflow"
 
   #Adding widgets to the sidebar
   [params.widgets]
