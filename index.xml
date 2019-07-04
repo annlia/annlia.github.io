@@ -14,10 +14,10 @@
     
     <item>
       <title>Research interests</title>
-      <link>https://annlia.github.io/jresearch/jresearch/</link>
+      <link>https://annlia.github.io/jacademia/jresearch/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://annlia.github.io/jresearch/jresearch/</guid>
+      <guid>https://annlia.github.io/jacademia/jresearch/</guid>
       <description>At the heart of my research are probabilistic graphical models and their relation to causal inference, as well as their potential to aid translational medicine and health sciences. We aim to model and analyse complex biomedical data and routinely collected health data. Therefore we strive to develop novel statistical methodology specifically tailored to the research question and the nature of the data at hand.
 Causal discovery is an inspiring technical challenge, where we try to learn about the causal mechanisms underlying a data generating process.</description>
     </item>
