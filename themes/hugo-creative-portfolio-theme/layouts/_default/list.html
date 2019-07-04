@@ -6,6 +6,7 @@
     <div class="col-lg-8">
       <div class="content-column-content" id="blog-listing-medium">
          <h1>{{ .Title }}</h1>
+         {{ .Content }}
 
          {{if eq .Title "Jclub"}}
          <p class="author-category"> Reading series from the joint biostatistics journal club between the <a href="http://ceb-institute.org/ceb">CEB (Clinical epidemiology and biostatistics</a> and <a href="https://www.swisstph.ch/en/">Swiss TPH (Tropical and public health)</a> institutes. </p>
@@ -17,7 +18,11 @@
          
         {{if eq .Title "Projects"}}
          <p class="author-category"> This is an attempt at projects </p>
-         {{end}}             
+         {{end}} 
+
+        {{if eq .Title "Research"}}
+         <p class="author-category"> This is an attempt at research </p>
+         {{end}}         
 
         {{if eq .Title "Work"}}
          <p class="author-category"> These are some of the projects that I've contributed to since I started working at <a href="www.pudding.cool">The Pudding</a>. Links to the work, my contributions, and screenshots are all included. </p>
