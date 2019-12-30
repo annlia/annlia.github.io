@@ -9,7 +9,9 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [permalinks]
-  jclub = "jclub/:year/:month/:day/:slug/"
+  # setting this means that simple .html files within the folder are not found, 
+  # such as jclub.html, but _index.html seems to work instead
+  archive = "archive/:year/:month/:day/:slug/"
   projects = "projects/:year/:month/:day/:slug"
   blog = "blog/:year/:month/:day/:slug"
 
@@ -59,8 +61,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "jacademia/jteaching"  
   
   [[params.navlinks]]
-  name = "Biostatistics Journal club"
-  url = "jclub/"
+  name = "Stats Tea Club"
+  url = "jclub/"   
+  
+  [[params.navlinks]]
+  name = "Archive"
+  url = "archive/"
   
   [[params.navlinks]]
   name = "Collage"
