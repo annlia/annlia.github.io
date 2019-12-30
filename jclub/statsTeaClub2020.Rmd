@@ -1,5 +1,5 @@
 ---
-title: 'Statistics Tea Club'
+title: 'Causal inference according to Judea Pearl'
 author: "Giusi Moffa"
 date: '2019-12-27'
 image: "jclub/img/bookOfWhy.jpg"
@@ -13,6 +13,8 @@ bibliography: jclub.bib
 ---
 
 <!-- December 27th 2019 -->
+
+Starting from January 2020 at the stats tea club we will read The Book of Why by Judea Pearl
 
 ```{r buildSchedule, include=FALSE}
 library(knitr)
