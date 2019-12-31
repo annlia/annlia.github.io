@@ -2,7 +2,7 @@
 title: "Series 2: To p or not to p, will we ever let it p"
 author: Giusi Moffa
 date: 2017-09-07
-image: "jclub/img/xkcd-p-value-m.png"
+image: "archive/img/xkcd-p-value-m.png"
 description: Figure from xkcd. The never ending saga of p-values
 draft: false
 type: "post"

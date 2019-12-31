@@ -2,7 +2,7 @@
 title: "Series 1: Bad science"
 author: Giusi Moffa
 date: 2017-06-01
-image: "jclub/img/badScience.jpeg"
+image: "archive/img/badScience.jpeg"
 description: A light start into evidence based medicine
 draft: false
 type: "post"
