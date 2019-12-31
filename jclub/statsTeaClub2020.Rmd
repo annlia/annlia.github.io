@@ -3,7 +3,7 @@ title: 'Causal inference according to Judea Pearl'
 author: "Giusi Moffa"
 date: '2019-12-27'
 image: "jclub/img/bookOfWhy.jpg"
-description: book cover
+description: Book cover
 output:
   html_document: default
   pdf_document: default
@@ -14,7 +14,9 @@ bibliography: jclub.bib
 
 <!-- December 27th 2019 -->
 
-Starting from January 2020 at the stats tea club we will read The Book of Why by Judea Pearl
+Reading plan for the 2020 statistics tea club. Starting from January we will go through The Book of Why by Judea Pearl, a (mostly) non-technical introduction to causal inference with graphical models. 
+
+Order the book from [Bookdepository](https://www.bookdepository.com/Book-Why-Judea-Pearl/9780141982410?ref=grid-view&qid=1577477244777&sr=1-1) or [Amazon](https://www.amazon.de/Book-Why-Science-Cause-Effect/dp/0141982411)
 
 ```{r buildSchedule, include=FALSE}
 library(knitr)

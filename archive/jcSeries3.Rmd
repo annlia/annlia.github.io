@@ -2,7 +2,7 @@
 title: 'Series 3: Regulatory statistics'
 author: "Giusi Moffa"
 date: '2017-11-24'
-image: "jclub/img/nakedEmperor.jpg"
+image: "archive/img/nakedEmperor.jpg"
 description: Figure from abovethelaw.com
 output:
   html_document: default
@@ -20,7 +20,7 @@ _[Figure from abovethelaw.com](https://abovethelaw.com/2017/10/when-the-emperor-
 library(knitr)
 library(kableExtra)
 library(readr)
-setwd("~/jData/jLibellus/entryFiles/annlia.github.io/content/jclub")
+setwd("~/jData/jLibellus/entryFiles/annlia.github.io/content/archive")
 schedule <- read_csv("schedule2018.csv")
 ```
 

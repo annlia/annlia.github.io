@@ -2,7 +2,7 @@
 title: "Series 2 bis: Follow up to ASA statement - two years on (2017)"
 author: Giusi Moffa
 date: 2017-11-02
-image: "jclub/img/Messerli2012-ChocolateNobelCorrelation.png"
+image: "archive/img/Messerli2012-ChocolateNobelCorrelation.png"
 description: Figure from Messerli (2012) Chocolate Consumption, Cognitive Function, and Nobel Laureates, New England Journal of Medicine.
 draft: false
 type: "post"
