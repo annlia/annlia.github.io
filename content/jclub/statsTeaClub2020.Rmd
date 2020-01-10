@@ -27,6 +27,6 @@ schedule <- read_csv("schedule2020.csv")
 ```
 
 ```{r displaySchedule, echo=FALSE}
-kable(schedule, "html") %>% column_spec(c(1:2), width = "8em") %>% column_spec(3, width = "16em") %>%
+kable(schedule, "html") %>% column_spec(1, width = "12em") %>% column_spec(2, width = "6em") %>% column_spec(3, width = "12em") %>%
   kable_styling(bootstrap_options = c("striped", "hover"))
 ```
