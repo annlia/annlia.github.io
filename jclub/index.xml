@@ -13,14 +13,12 @@
     
     
     <item>
-      <title>Causal inference according to Judea Pearl</title>
+      <title></title>
       <link>https://annlia.github.io/jclub/statsteaclub2020/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://annlia.github.io/jclub/statsteaclub2020/</guid>
-      <description>Reading plan for the 2020 statistics tea club. Starting from January we will go through The Book of Why by Judea Pearl, a (mostly) non-technical introduction to causal inference with graphical models.
-Order the book from Bookdepository or Amazon
-  Date  Time  Location  Topic      January 30th 2020  12.15-13.15  DMI, Spiegelgasse 1, Room 06.011  Intro, chapters 1 &amp;amp; 2    February 20th 2020  12.</description>
+      <description>Causal inference according to Judea Pearl // Pandoc 2.9 adds attributes on both header and div. We remove the former (to // be compatible with the behavior of Pandoc :first-child&#34;); var i, h, a; for (i = 0; i 0) h.removeAttribute(a[0].name); } });  /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;</description>
     </item>
     
   </channel>

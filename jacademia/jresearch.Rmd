@@ -12,8 +12,10 @@ At the heart of my research are probabilistic graphical models and their relatio
 
 Causal discovery is an inspiring technical challenge, where we try to learn about the causal mechanisms underlying a data generating process. To tackle this problem we mainly work with causal diagrams which provide a convenient representation of causal relationships in the form of directed acyclic graphs (DAGs). 
 
+<!--
 **Open positions**  
 If you are also intrigued by causal inference and its connected computational challenges, and would consider doing a PhD or postdoc working on some of the projects outlined below, please send me an email.
+-->
 
 ##### Causal inference and intervention effects  
 By going through networks compatible with observed data we can gain insights about the underlying causal mechanisms and derive putative intervention effects, though under very strict assumptions. To account for the uncertainty in the estimation of the DAG structure we follow a fully Bayesian approach to derive a posterior distribution of putative causal effects, implemented both for cross-sectional [(Moffa et al. 2017)](https://doi.org/10.1093/schbul/sbx013) as well as by means of dynamic Bayesian networks for longitudinal [(Kuipers et al. 2019)](https://doi.org/10.1017/S0033291718000879) binary data. A current objective is to extend this methodology beyond the treatment of binary data to address problems with mixed data and non-linear relationships between the variables.
