@@ -1,0 +1,9 @@
+---
+title: "Visitor's guide"
+date: 2019-07-02
+author: Giusi Moffa
+draft: false
+---
+
+Chronichles from a statistician's journey  
+A drunkard's walk in an attempt at building a [Hugo](https://gohugo.io/) website with [RStudio](https://www.rstudio.com/) and [github](https://github.com/).

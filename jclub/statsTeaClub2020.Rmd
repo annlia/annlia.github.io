@@ -1,0 +1,32 @@
+---
+title: 'Causal inference according to Judea Pearl'
+author: "Giusi Moffa"
+date: '2019-12-27'
+image: "jclub/img/bookOfWhy.jpg"
+description: Book cover
+output:
+  html_document: default
+  pdf_document: default
+draft: false
+type: "post"
+bibliography: jclub.bib
+---
+
+<!-- December 27th 2019 -->
+
+Reading plan for the 2020 statistics tea club. Starting from January we will go through The Book of Why by Judea Pearl, a (mostly) non-technical introduction to causal inference with graphical models. 
+
+Order the book from [Bookdepository](https://www.bookdepository.com/Book-Why-Judea-Pearl/9780141982410?ref=grid-view&qid=1577477244777&sr=1-1) or [Amazon](https://www.amazon.de/Book-Why-Science-Cause-Effect/dp/0141982411)
+
+```{r buildSchedule, include=FALSE}
+library(knitr)
+library(kableExtra)
+library(readr)
+setwd("~/jData/jLibellus/entryFiles/annlia.github.io/content/jclub")
+schedule <- read_csv("schedule2020.csv")
+```
+
+```{r displaySchedule, echo=FALSE}
+kable(schedule, "html") %>% column_spec(1, width = "12em") %>% column_spec(2, width = "6em") %>% column_spec(3, width = "12em") %>%
+  kable_styling(bootstrap_options = c("striped", "hover"))
+```

@@ -1,0 +1,67 @@
+---
+title: 'Series 3: Regulatory statistics'
+author: "Giusi Moffa"
+date: '2017-11-24'
+image: "archive/img/nakedEmperor.jpg"
+description: Figure from abovethelaw.com
+output:
+  html_document: default
+  pdf_document: default
+draft: false
+type: "post"
+bibliography: jclub.bib
+---
+
+_[Figure from abovethelaw.com](https://abovethelaw.com/2017/10/when-the-emperor-has-no-clothes-3-tips-to-avoid-inadvertent-naked-licenses-under-trademark-law/)_ 
+
+<!-- November 2nd 2017 -->
+
+```{r buildSchedule, include=FALSE}
+library(knitr)
+library(kableExtra)
+library(readr)
+setwd("~/jData/jLibellus/entryFiles/annlia.github.io/content/archive")
+schedule <- read_csv("schedule2018.csv")
+```
+
+```{r displaySchedule, echo=FALSE}
+kable(schedule, "html") %>% column_spec(c(1:2), width = "8em") %>% column_spec(3, width = "16em") %>%
+  kable_styling(bootstrap_options = c("striped", "hover"))
+```
+  
+&nbsp;
+
+_Following up on the 2nd EFSPI Workshop on Regulatory Statistics, on October 5-6th 2017 in Basel_
+
+#### Regulatory guidelines around multiple endpoints
+
+* [Multiple Endpoints in Clinical Trials: FDA Issues Draft Guidance](https://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm536750.pdf)  
+[Announcement on RAPS (Regulatory Affairs Professionals Society )](http://raps.org/Regulatory-Focus/News/2017/01/12/26574/Multiple-Endpoints-in-Clinical-Trials-FDA-Issues-Draft-Guidance/)  
+* [EMA Guideline on multiplicity issues in clinical trials Draft](http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2017/03/WC500224998.pdf)
+
+&nbsp;
+
+#### Update of the ICH E9 to include the concept and semantics of estimands
+* [ICH E9 Addendum](http://www.ich.org/ichnews/newsroom/read/article/ich-e9r1-revised-guideline-reaches-step-2b-of-the-ich-process.html)
+* [Per-Protocol Analyses of Pragmatic Trials](http://www.nejm.org/doi/full/10.1056/NEJMsm1605385?query=featured_clinical-trials)  
+Miguel A. Hernán and James M. Robins  
+Statistics in Medicine, 2017
+* [Estimands and Their Role in Clinical Trials](http://www.tandfonline.com/doi/full/10.1080/19466315.2017.1302358?af=R)  
+Mouna Akacha, Frank Bretz, David Ohlssen, Gerd Rosenkranz & Heinz Schmidli  
+Statistics in Biopharmaceutical Research, 2017  
+* [A taxonomy of estimands for regulatory clinical trials with discontinuations](http://onlinelibrary.wiley.com/doi/10.1002/sim.6841/full)  
+Thomas Permutt  
+Statistics in Medicine, 2015  
+* [Estimands in clinical trials broadening the perspective](http://onlinelibrary.wiley.com/doi/10.1002/sim.7033/full) [[pdf]](http://onlinelibrary.wiley.com/doi/10.1002/sim.7033/pdf)  
+Mouna Akacha, Frank Bretz, Stephen Ruberg  
+Statistics in Medicine, 2016  
+with _Comments on Estimands in clinical trials broadening the perspective_ by  
+[Thomas Permutt](http://onlinelibrary.wiley.com/doi/10.1002/sim.7160/full) [[pdf]](http://onlinelibrary.wiley.com/doi/10.1002/sim.7160/epdf)  
+[Peter Bauer](http://onlinelibrary.wiley.com/doi/10.1002/sim.7162/full) [[pdf]](http://onlinelibrary.wiley.com/doi/10.1002/sim.7162/epdf)  
+[Frank Rockhold](http://onlinelibrary.wiley.com/doi/10.1002/sim.7164/full)
+[[pdf]](http://onlinelibrary.wiley.com/doi/10.1002/sim.7164/epdf)  
+* [Editorial: Estimands in clinical trials - a challenge to intention to treat?](http://onlinelibrary.wiley.com/doi/10.1002/sim.7163/full)  
+[[pdf]](http://onlinelibrary.wiley.com/doi/10.1002/sim.7163/epdf)  
+Simon Day, 2016
+
+<!-- * [Cytel - Estimands 101: Interview with Mouna Akacha](http://www.cytel.com/blog/estimands-101) -->

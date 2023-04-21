@@ -1,0 +1,8 @@
+---
+title: "Statistics tea club"
+date: 2017-11-10T21:59:45+01:00
+author: Giusi Moffa
+draft: false
+---
+
+Reading series of the statistics tea club at University of Basel.
