@@ -8,16 +8,6 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
-[permalinks]
-  # setting this means that simple .html files within the folder are not found, 
-  # such as jclub.html, but _index.html seems to work instead
-  archive = "archive/:year/:month/:day/:slug/"
-  projects = "projects/:year/:month/:day/:slug"
-  blog = "blog/:year/:month/:day/:slug"
-
-relativeurls = true
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
@@ -98,3 +88,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     highlightjsCDN = "//cdn.bootcss.com"
     highlightjsLang = ["r", "yaml"]
     highlightjsTheme = "tomorrow-night-bright"
+
+relativeurls = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+  # setting this means that simple .html files within the folder are not found, 
+  # such as jclub.html, but _index.html seems to work instead
+  archive = "archive/:year/:month/:day/:slug/"
+  projects = "projects/:year/:month/:day/:slug"
+  blog = "blog/:year/:month/:day/:slug"
