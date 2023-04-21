@@ -45,10 +45,6 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Research"
   url = "jacademia/jresearch"
-
-  [[params.navlinks]]
-  name = "Teaching"
-  url = "jacademia/jteaching"  
   
   [[params.navlinks]]
   name = "Stats Tea Club"
