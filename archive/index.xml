@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biostatistics Journal Club on A journey through statistics &#43;---&#43; by Giusi Moffa</title>
+    <link>https://annlia.github.io/archive/</link>
+    <description>Recent content in Biostatistics Journal Club on A journey through statistics &#43;---&#43; by Giusi Moffa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2017 21:59:45 +0100</lastBuildDate><atom:link href="https://annlia.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biostatistics Journal Club</title>
+      <link>https://annlia.github.io/archive/2018/12/27/biostatistics-journal-club/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/archive/2018/12/27/biostatistics-journal-club/</guid>
+      <description>Archive of the reading series from the joint biostatistics journal club of the CEB (Clinical epidemiology and biostatistics) and the Swiss TPH (Tropical and public health) institutes between spring 2017 and winter 2018.</description>
+    </item>
+    
+    <item>
+      <title>Series 3: Regulatory statistics</title>
+      <link>https://annlia.github.io/archive/2017/11/24/series-3-regulatory-statistics/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/archive/2017/11/24/series-3-regulatory-statistics/</guid>
+      <description>Figure from abovethelaw.com
+  Date  Location  Topic      January 11th 2018  CEB  ICH E9 Addendum and Per-Protocol Analyses of Pragmatic Trials    February 8th 2018  Swiss TPH  Estimands and Their Role in Clinical Trials    March 8th 2018  CEB  A taxonomy of estimands for regulatory clinical trials with discontinuations    April 12th 2018  Swiss TPH  Estimands in clinical trials broadening the perspective (possibly with comments)    May 17th 2018  CEB  Multiple Endpoints in Clinical Trials: FDA Issues Draft Guidance (Parts I to III)    June 14th 2018  Swiss TPH  Multiple Endpoints in Clinical Trials: FDA Issues Draft Guidance (Parts IV to V)      Following up on the 2nd EFSPI Workshop on Regulatory Statistics, on October 5-6th 2017 in Basel</description>
+    </item>
+    
+    <item>
+      <title>Series 4: To be defined</title>
+      <link>https://annlia.github.io/archive/2017/11/09/series-4-to-be-defined/</link>
+      <pubDate>Thu, 09 Nov 2017 21:59:45 +0100</pubDate>
+      
+      <guid>https://annlia.github.io/archive/2017/11/09/series-4-to-be-defined/</guid>
+      <description>Potential Bayesian statistics reading list
+ A primer on BAYESIAN STATISTICS in Health Economics and Outcomes Research Bryan Luce and Anthony O’Hagan
+MEDTAP International, 2003
+ Bayesian data analysis for newcomers
+link to Springer
+John K. Kruschke and Torrin M. Liddell
+Psychonomic Bulletin &amp;amp; Review, 2017
+Quote from the abstract This article explains the foundational concepts of Bayesian data analysis using virtually no mathematical notation.
+ The Bayesian New Statistics</description>
+    </item>
+    
+    <item>
+      <title>Series 2 bis: Follow up to ASA statement - two years on (2017)</title>
+      <link>https://annlia.github.io/archive/2017/11/02/series-2-bis-follow-up-to-asa-statement-two-years-on-2017/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/archive/2017/11/02/series-2-bis-follow-up-to-asa-statement-two-years-on-2017/</guid>
+      <description>Figure from Messerli (2012) Chocolate Consumption, Cognitive Function, and Nobel Laureates, New England Journal of Medicine.
+Potential list of readings under additional p-value treatment
+ Redefine statistical significance
+71 Al. and Valen E. Johnson PsyArXiv Preprints, 2017
+Appearing in nature human behaviour
+with Correspondence by Valentin Amrhein and Sander Greenland in Remove, rather than redefine, statistical significance
+and reponses by another large number of authors (Including D. Mayo) in</description>
+    </item>
+    
+    <item>
+      <title>Series 2: To p or not to p, will we ever let it p</title>
+      <link>https://annlia.github.io/archive/2017/09/07/series-2-to-p-or-not-to-p-will-we-ever-let-it-p/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/archive/2017/09/07/series-2-to-p-or-not-to-p-will-we-ever-let-it-p/</guid>
+      <description>Figure from xkcd
+The never ending saga of p-values
+The ASA Statement on p-Values: Context, Process, and Purpose
+with comments at
+Supplemental Material to the ASA Statement on P-Values and Statistical Significance
+was published in 2016 as an editorial in The American Statistician, with 21 comments from renowned statisticians, and a list of relevant references.
+Meeting 1 - September 7th
+The ASA Statement on p-Values: Context, Process, and Purpose (Ronald L.</description>
+    </item>
+    
+    <item>
+      <title>Series 1: Bad science</title>
+      <link>https://annlia.github.io/archive/2017/06/01/series-1-bad-science/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://annlia.github.io/archive/2017/06/01/series-1-bad-science/</guid>
+      <description>For a light start in the field of evidence based science Goldacre’s Bad science is a good and enjoyable read.
+Bad science wiki page
+Order Bad science from amazon
+Goldacre is a British physician, academic and Guardian columnist, very enjoyable to read, though provocative.
+An interesting follow up is Goldacre’s Bad Pharma, more closely oriented to the world of drug development. Unsurprisingly it has attracted some criticism by reknown statisticians working in this field, such as Stephen Senn’s:</description>
+    </item>
+    
+  </channel>
+</rss>
